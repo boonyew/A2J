@@ -1,0 +1,11 @@
+# Images & Numpy files
+*.png
+*.npy
+*.txt
+
+# VS Code directory
+.vscode
+
+# Models
+*.pth
+*.cpython-*
